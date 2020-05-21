@@ -45,5 +45,7 @@ fn main() {
                 println!("Task not found");
             }
         }
+
+        println!("---------------------");
     }
 }
