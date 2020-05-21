@@ -3,7 +3,6 @@ use std::io;
 fn main() {
     println!("Welcome into your TODO app!");
     
-    // let mut task_list: Vec<String> = Vec::new();
     let mut task_list = vec![];
 
     loop {
