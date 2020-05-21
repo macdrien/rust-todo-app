@@ -5,6 +5,12 @@ This is my first TODO APP in Rust.
 Current version : 1.0.0
 Last release : 1.0.0
 
+## Installation
+
+To use the application, you have to install [rust](https://www.rust-lang.org/tools/install) and [crago](https://crates.io/).
+After that, download the project. In the root folder, enter the command cargo build.  
+To start the application, juste enter cargo run.
+
 ## Desription
 
 This application is a command line application.
