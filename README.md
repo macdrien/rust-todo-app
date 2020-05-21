@@ -2,7 +2,7 @@
 
 This is my first TODO APP in Rust.
 
-Current version : 1.0.0
+Current version : 1.0.0  
 Last release : 1.0.0
 
 ## Installation
